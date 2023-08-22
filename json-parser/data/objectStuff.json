@@ -1,0 +1,9 @@
+{
+  "id": "1",
+  "name": "Monty",
+  "surname": "Python",
+  "work": {
+    "salary": "300000",
+    "experience": "3"
+  }
+}
